@@ -1,12 +1,10 @@
 # Garzoni Dataset
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2636551.svg)](https://doi.org/10.5281/zenodo.2636551) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-
-
 <p align="center">
-  <img src="https://github.com/garzoni/garzoni-datasets/blob/master/img/registri_maud_10-12-2015.png?raw=true" width="250" alt="Garzoni Registers at ASV, Venice"/>
+  <img src="https://github.com/garzoni/garzoni-datasets/blob/master/img/registri_maud_10-12-2015.png?raw=true" width="350" alt="Garzoni Registers at ASV, Venice"/>
 </p>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2636551.svg)](https://doi.org/10.5281/zenodo.2636551) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This repository contains the Garzoni dataset, which can also be explored and downloaded from the [Garzoni Exploration Interface](https://garzoni.org).
 
