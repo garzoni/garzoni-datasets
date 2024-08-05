@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/garzoni/garzoni-datasets/registri_maud_10-12-2015.png?raw=true" width="350" alt="Garzoni Registers at ASV, Venice"/>
+  <img src="https://github.com/garzoni/garzoni-datasets/img/registri_maud_10-12-2015.png?raw=true" width="350" alt="Garzoni Registers at ASV, Venice"/>
 </p>
 
 This repository contains the Garzoni dataset, which can also be explored and downloaded from the [Garzoni Exploration Interface](https://garzoni.org).
