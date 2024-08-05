@@ -2,6 +2,12 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2636551.svg)](https://doi.org/10.5281/zenodo.2636551) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+
+
+<p align="center">
+  <img src="https://github.com/garzoni/garzoni-datasets/registri_maud_10-12-2015.png?raw=true" width="350" alt="Garzoni Registers at ASV, Venice"/>
+</p>
+
 This repository contains the Garzoni dataset, which can also be explored and downloaded from the [Garzoni Exploration Interface](https://garzoni.org).
 
 To download the data from this repository, the easiest is to use the [Releases](https://github.com/garzoni/garzoni-datasets/releases/tag/v1.1) (just here on the right panel).
@@ -41,11 +47,11 @@ The project involved an interdisciplinary team and had two main phases. The firs
 GAWS was co-funded by the Swiss National Science Foundation under grant
 No. [CR12I1L_156272](https://data.snf.ch/grants/grant/156272) and by the French National Research Agency (ANR).
 
-### Copyright
+#### Copyright
 
 Copyright (C) 2019 The Garzoni team.
 
-### License
+#### License
 
 This dataset is released as open source under
 the [Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
